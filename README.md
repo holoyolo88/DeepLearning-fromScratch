@@ -1,1 +1,1 @@
-# a study of DeepLearning-fromScratch book
+a study of DeepLearning-fromScratch book
