@@ -1,1 +1,1 @@
-a study of DeepLearning-fromScratch book
+a repository for studying DeepLearning-fromScratch book
